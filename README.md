@@ -14,9 +14,9 @@
 * CSS
 
 ## Screenshots
-####PC
+#### PC
 ![Screenshot do site em uma tela tamanho PC](https://i.imgur.com/JlKWDQn.png)
-####Tablet
+#### Tablet
 ![Screenshot do site em uma tela tamanho Tablet](https://i.imgur.com/ZiBtsWt.png)
-####Mobile
+#### Mobile
 ![Screenshot do site em uma tela tamanho Mobile](https://i.imgur.com/hj5cesK.png)
