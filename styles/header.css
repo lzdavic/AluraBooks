@@ -28,6 +28,12 @@
     align-items: center;
 }
 
+.container__logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
 .container__imagem{
     padding: 1em;
     width: 30px;
@@ -82,6 +88,8 @@
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
         font-size: 30px;
+        text-decoration: none;
+        color: var(--preto);
     }
 
     .container__titulo {
